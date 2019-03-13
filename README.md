@@ -1,7 +1,7 @@
 # ImagetoText
 
 
-#To Run Program
+**To Run Program**
 - Open the terminal
 -  Type "python jpgtotext.py"
 - Type the image's path and name 
